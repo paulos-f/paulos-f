@@ -1,83 +1,222 @@
-<div align="center">
+<p align="center">
+  <samp>PAULO.FONTANELA / ENGINEERING LAB</samp>
+</p>
 
-# Paulo Fontanela
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&pause=1000&color=F59E0B&center=true&vCenter=true&width=900&lines=Engenharia+da+Computa%C3%A7%C3%A3o+aplicada+a+problemas+reais.;Software+%E2%86%94+IA+%E2%86%94+IoT+%E2%86%94+Hardware.;Do+prot%C3%B3tipo+na+bancada+ao+sistema+em+produ%C3%A7%C3%A3o."
+    alt="Animação de apresentação"
+  />
+</p>
 
-### Estudante de Engenharia da Computação
-
-**Software · Inteligência Artificial · IoT · Sistemas Embarcados**
-
-[Portfólio](https://paulosf.com.br) · [GitHub](https://github.com/paulos-f)
-
-</div>
-
----
-
-## Sobre mim
-
-Sou estudante de Engenharia da Computação, com interesse em desenvolvimento de software, inteligência artificial, automação, Internet das Coisas e sistemas embarcados.
-
-Busco transformar problemas reais em soluções práticas, unindo software, eletrônica, dados e automação.
-
-Atualmente desenvolvo projetos nas áreas de:
-
-* Inteligência Artificial e visão computacional
-* Aplicações web e APIs
-* Sistemas embarcados com ESP32 e Arduino
-* Automação e monitoramento IoT
-* Bancos de dados e sistemas de gestão
-* Redes, infraestrutura e segurança
+<pre>
+╭─[ paulo@engineering-lab ]──────────────────────────────────────────────╮
+│ Formação: Engenharia da Computação                                      │
+│ Base: Criciúma, SC — Brasil                                             │
+│ Foco: Software · IA · Automação · IoT · Sistemas Embarcados             │
+│ Missão: transformar problemas reais em soluções técnicas funcionais.    │
+╰─────────────────────────────────────────────────────────────────────────╯
+</pre>
 
 ---
 
-## Tecnologias e ferramentas
+## Mapa da bancada
 
-**Linguagens e desenvolvimento**
-
-`Java` · `Python` · `JavaScript` · `TypeScript` · `C/C++` · `SQL`
-
-**Frameworks e plataformas**
-
-`Spring Boot` · `React` · `FastAPI` · `Flask` · `Vite` · `Node.js`
-
-**Dados, IA e infraestrutura**
-
-`PostgreSQL` · `MySQL` · `Docker` · `Git` · `GitHub` · `Linux`
-
-**Embarcados e IoT**
-
-`ESP32` · `Arduino` · `MQTT` · `FreeRTOS` · `Node-RED` · `Wokwi`
-
----
-
-## Projetos em desenvolvimento
-
-Estou organizando e publicando projetos selecionados nas seguintes áreas:
-
-| Área                    | Projetos                                                        |
-| ----------------------- | --------------------------------------------------------------- |
-| Inteligência Artificial | Análise e verificação de imagens geradas por IA                 |
-| Sistemas Web            | Aplicações de gestão, dashboards e APIs REST                    |
-| IoT e Embarcados        | ESP32, MQTT, sensores, automação e monitoramento                |
-| Hardware                | Projetos eletrônicos, PCB, lasers e sistemas interativos        |
-| Engenharia de Software  | Arquitetura, banco de dados, segurança e integração de sistemas |
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <b>01 / INTELIGÊNCIA ARTIFICIAL</b>
+      <br><br>
+      Visão computacional, análise de imagens, modelos de IA, validação e integração com aplicações web.
+      <br><br>
+      <code>VerificaIA</code>
+    </td>
+    <td width="33%" align="center">
+      <b>02 / SOFTWARE E SISTEMAS</b>
+      <br><br>
+      APIs, aplicações web, bancos de dados, dashboards, automações e arquiteturas full-stack.
+      <br><br>
+      <code>ESFL-Manager</code>
+    </td>
+    <td width="33%" align="center">
+      <b>03 / HARDWARE E IoT</b>
+      <br><br>
+      ESP32, Arduino, MQTT, sensores, FreeRTOS, automação e integração entre software e eletrônica.
+      <br><br>
+      <code>Harpa Laser · ESP32 Lab</code>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Objetivo deste perfil
+## Status da bancada
 
-Este perfil reúne projetos acadêmicos, experimentais e profissionais desenvolvidos durante minha formação em Engenharia da Computação.
+<!-- LAB_STATUS:START -->
 
-Cada repositório publicado terá documentação, instruções de execução, tecnologias utilizadas, imagens do projeto e detalhes técnicos relevantes.
+```text
+[ ACTIVE ]  VerificaIA
+            Plataforma para análise de imagens geradas por IA.
+
+[ BUILD  ]  Harpa Laser
+            Hardware, PCB, controle de lasers, áudio e firmware.
+
+[ TEST   ]  ESP32 + MQTT
+            Automação residencial, sensores, dashboard e Node-RED.
+
+[ DESIGN ]  ESFL-Manager
+            Gestão financeira, IA, Spring Boot, React e PostgreSQL.
+```
+
+<!-- LAB_STATUS:END -->
+
+> Software, eletrônica e dados trabalhando no mesmo circuito.
 
 ---
 
-## Contato
+## Stack técnico
 
-* Portfólio: [paulosf.com.br](https://paulosf.com.br)
-* GitHub: [@paulos-f](https://github.com/paulos-f)
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=java,python,js,ts,react,spring,fastapi,postgres,mysql,docker,git,linux,arduino"
+    alt="Tecnologias utilizadas"
+  />
+</p>
 
-<div align="center">
+<table>
+  <tr>
+    <td width="33%">
+      <b>Software</b>
+      <br><br>
+      Java · Python · JavaScript · TypeScript
+      <br>
+      React · Spring Boot · FastAPI · Flask
+    </td>
+    <td width="33%">
+      <b>Dados e infraestrutura</b>
+      <br><br>
+      PostgreSQL · MySQL · Docker
+      <br>
+      Git · Linux · APIs REST
+    </td>
+    <td width="33%">
+      <b>Embarcados e automação</b>
+      <br><br>
+      ESP32 · Arduino · MQTT
+      <br>
+      FreeRTOS · Node-RED · Sensores
+    </td>
+  </tr>
+</table>
 
-> Construindo soluções com software, eletrônica e engenharia.
+---
 
-</div>
+## Projetos em construção
+
+<details>
+  <summary><b>🧠 VerificaIA — Detecção de imagens geradas por IA</b></summary>
+  <br>
+
+Aplicação web voltada à análise de imagens com indícios de geração artificial.
+
+**Tecnologias e frentes envolvidas:**
+
+* FastAPI
+* React + Vite
+* Python
+* Processamento de imagens
+* Visão computacional
+* Modelos de Inteligência Artificial
+* Análise forense visual
+
+**Objetivo:** oferecer uma avaliação técnica com score, indicadores e visualização de análise para imagens enviadas pelo usuário.
+
+</details>
+
+<details>
+  <summary><b>⚡ Harpa Laser — Hardware, firmware e interação física</b></summary>
+  <br>
+
+Projeto eletrônico interativo baseado em lasers, fototransistores, áudio e controle embarcado.
+
+**Componentes e áreas envolvidas:**
+
+* PCB personalizada
+* Laser e fototransistores
+* Módulo DFPlayer Mini
+* Amplificação de áudio
+* Microcontrolador
+* Soldagem e montagem física
+* Projeto de circuito e organização de componentes
+
+**Objetivo:** integrar software embarcado, eletrônica e interação física em um instrumento funcional.
+
+</details>
+
+<details>
+  <summary><b>📡 ESP32 Lab — Automação, sensores e MQTT</b></summary>
+  <br>
+
+Projetos de automação e monitoramento utilizando ESP32, sensores, relés, dashboards e comunicação MQTT.
+
+**Componentes e tecnologias:**
+
+* ESP32 DevKit
+* MQTT
+* HiveMQ
+* Node-RED
+* Sensores DHT11, LDR e ultrassônico
+* Displays e LEDs
+* FreeRTOS
+
+**Objetivo:** construir sistemas conectados e monitoráveis para cenários de automação residencial e IoT.
+
+</details>
+
+<details>
+  <summary><b>📊 ESFL-Manager — Gestão financeira com IA</b></summary>
+  <br>
+
+Sistema de gerenciamento financeiro com foco em fluxo de caixa, fornecedores, parcelas, centros de custo e apoio de IA.
+
+**Tecnologias previstas:**
+
+* Java + Spring Boot
+* React + TypeScript
+* PostgreSQL
+* Python + Flask
+* APIs REST
+* Dashboards e regras de negócio
+
+**Objetivo:** transformar dados financeiros em visualização, controle e suporte à decisão.
+
+</details>
+
+---
+
+## Linha de evolução
+
+```text
+[ ] Publicar VerificaIA com README técnico e demonstração
+[ ] Publicar ESP32 Lab com firmware, diagrama e documentação
+[ ] Publicar Harpa Laser com esquemático, PCB e imagens da montagem
+[ ] Publicar ESFL-Manager com arquitetura e documentação da API
+[ ] Criar portfólio técnico integrado ao GitHub
+[ ] Manter projetos documentados e versionados
+```
+
+---
+
+## Princípio de trabalho
+
+> Projetos não devem existir apenas como código.
+>
+> Eles precisam ter problema definido, arquitetura clara, documentação, testes e aplicação prática.
+
+---
+
+<p align="center">
+  <a href="https://paulosf.com.br">Portfólio</a>
+  ·
+  <a href="https://github.com/paulos-f">GitHub</a>
+</p>
