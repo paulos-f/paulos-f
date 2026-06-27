@@ -9,105 +9,88 @@
   />
 </p>
 
-<pre>
-╭─[ paulo@engineering-lab ]──────────────────────────────────────────────╮
-│ Formação: Engenharia da Computação                                      │
-│ Base: Criciúma, SC — Brasil                                             │
-│ Foco: Software · IA · Automação · IoT · Sistemas Embarcados             │
-│ Missão: transformar problemas reais em soluções técnicas funcionais.    │
-╰─────────────────────────────────────────────────────────────────────────╯
-</pre>
-
----
-
-## Mapa da bancada
-
-<table>
-  <tr>
-    <td width="33%" align="center">
-      <b>01 / INTELIGÊNCIA ARTIFICIAL</b>
-      <br><br>
-      Visão computacional, análise de imagens, modelos de IA, validação e integração com aplicações web.
-      <br><br>
-      <code>VerificaIA</code>
-    </td>
-    <td width="33%" align="center">
-      <b>02 / SOFTWARE E SISTEMAS</b>
-      <br><br>
-      APIs, aplicações web, bancos de dados, dashboards, automações e arquiteturas full-stack.
-      <br><br>
-      <code>ESFL-Manager</code>
-    </td>
-    <td width="33%" align="center">
-      <b>03 / HARDWARE E IoT</b>
-      <br><br>
-      ESP32, Arduino, MQTT, sensores, FreeRTOS, automação e integração entre software e eletrônica.
-      <br><br>
-      <code>Harpa Laser · ESP32 Lab</code>
-    </td>
-  </tr>
-</table>
-
----
-
-## Status da bancada
-
-<!-- LAB_STATUS:START -->
-
 ```text
-[ ACTIVE ]  VerificaIA
-            Plataforma para análise de imagens geradas por IA.
-
-[ BUILD  ]  Harpa Laser
-            Hardware, PCB, controle de lasers, áudio e firmware.
-
-[ TEST   ]  ESP32 + MQTT
-            Automação residencial, sensores, dashboard e Node-RED.
-
-[ DESIGN ]  ESFL-Manager
-            Gestão financeira, IA, Spring Boot, React e PostgreSQL.
+╭─[ paulo@engineering-lab ]──────────────────────────────────────────────╮
+│ Formação: Engenharia da Computação                                     │
+│ Base: Criciúma, SC — Brasil                                            │
+│ Foco: Software · IA · Automação · IoT · Sistemas Embarcados            │
+│ Missão: transformar problemas reais em soluções técnicas funcionais.   │
+╰────────────────────────────────────────────────────────────────────────╯
 ```
 
-<!-- LAB_STATUS:END -->
+---
 
-> Software, eletrônica e dados trabalhando no mesmo circuito.
+## Áreas de atuação
+
+> Em vez de mostrar apenas tecnologias, este perfil foca nas frentes onde estou construindo soluções reais.
+
+```text
+╭──────────────────────────── 01 / INTELIGÊNCIA ARTIFICIAL ────────────────────────────╮
+│ Visão computacional, análise de imagens, modelos de IA, validação e integração      │
+│ com aplicações web.                                                                  │
+│ Projeto-referência: VerificaIA                                                       │
+╰──────────────────────────────────────────────────────────────────────────────────────╯
+
+╭───────────────────────────── 02 / SOFTWARE E SISTEMAS ───────────────────────────────╮
+│ APIs, aplicações web, bancos de dados, dashboards, automações e arquiteturas        │
+│ full-stack.                                                                          │
+│ Projeto-referência: ESFL-Manager                                                     │
+╰──────────────────────────────────────────────────────────────────────────────────────╯
+
+╭────────────────────────────── 03 / HARDWARE E IoT ───────────────────────────────────╮
+│ ESP32, Arduino, MQTT, sensores, FreeRTOS, automação e integração entre software     │
+│ e eletrônica.                                                                        │
+│ Projeto-referência: Harpa Laser · ESP32 Lab                                          │
+╰──────────────────────────────────────────────────────────────────────────────────────╯
+```
 
 ---
 
 ## Stack técnico
 
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=java,python,js,ts,react,spring,fastapi,postgres,mysql,docker,git,linux,arduino"
-    alt="Tecnologias utilizadas"
-  />
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,spring,fastapi,postgres,mysql,docker,git,linux,arduino" />
 </p>
 
-<table>
-  <tr>
-    <td width="33%">
-      <b>Software</b>
-      <br><br>
-      Java · Python · JavaScript · TypeScript
-      <br>
-      React · Spring Boot · FastAPI · Flask
-    </td>
-    <td width="33%">
-      <b>Dados e infraestrutura</b>
-      <br><br>
-      PostgreSQL · MySQL · Docker
-      <br>
-      Git · Linux · APIs REST
-    </td>
-    <td width="33%">
-      <b>Embarcados e automação</b>
-      <br><br>
-      ESP32 · Arduino · MQTT
-      <br>
-      FreeRTOS · Node-RED · Sensores
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/Software-0f172a?style=for-the-badge&logo=codeium&logoColor=white" />
+  <img src="https://img.shields.io/badge/IA-1e293b?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/IoT-334155?style=for-the-badge&logo=esphome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hardware-475569?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+</p>
+
+```text
+SOFTWARE:
+Java · Python · JavaScript · TypeScript · React · Spring Boot · FastAPI
+
+DADOS E INFRA:
+PostgreSQL · MySQL · Docker · Git · Linux · APIs REST
+
+EMBARCADOS E AUTOMAÇÃO:
+ESP32 · Arduino · MQTT · FreeRTOS · Node-RED · Sensores
+```
+
+---
+
+## Status da bancada
+
+```text
+╭─[ LAB STATUS ]──────────────────────────────────────────────────────────╮
+│                                                                        │
+│  [ ACTIVE ]  VerificaIA                                                │
+│             Plataforma para análise de imagens geradas por IA.         │
+│                                                                        │
+│  [ BUILD  ]  Harpa Laser                                               │
+│             Hardware, PCB, controle de lasers, áudio e firmware.       │
+│                                                                        │
+│  [ TEST   ]  ESP32 + MQTT                                              │
+│             Automação residencial, sensores, dashboard e Node-RED.     │
+│                                                                        │
+│  [ DESIGN ]  ESFL-Manager                                              │
+│             Gestão financeira, IA, Spring Boot, React e PostgreSQL.    │
+│                                                                        │
+╰────────────────────────────────────────────────────────────────────────╯
+```
 
 ---
 
@@ -143,7 +126,7 @@ Projeto eletrônico interativo baseado em lasers, fototransistores, áudio e con
 
 * PCB personalizada
 * Laser e fototransistores
-* Módulo DFPlayer Mini
+* DFPlayer Mini
 * Amplificação de áudio
 * Microcontrolador
 * Soldagem e montagem física
@@ -210,10 +193,7 @@ Sistema de gerenciamento financeiro com foco em fluxo de caixa, fornecedores, pa
 ## Princípio de trabalho
 
 > Projetos não devem existir apenas como código.
->
 > Eles precisam ter problema definido, arquitetura clara, documentação, testes e aplicação prática.
-
----
 
 <p align="center">
   <a href="https://paulosf.com.br">Portfólio</a>
