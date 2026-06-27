@@ -7,175 +7,131 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Software%2C+IA%2C+IoT+e+Sistemas+Embarcados.;Da+bancada+eletr%C3%B4nica+%C3%A0+aplica%C3%A7%C3%A3o+em+produ%C3%A7%C3%A3o.;Projetos+reais%2C+prot%C3%B3tipos+funcionais+e+engenharia+aplicada."
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=700&color=38BDF8&center=true&vCenter=true&width=900&lines=Software%2C+IA%2C+IoT+e+Sistemas+Embarcados.;Da+bancada+eletr%C3%B4nica+%C3%A0+aplica%C3%A7%C3%A3o+em+produ%C3%A7%C3%A3o.;Projetos+reais%2C+prot%C3%B3tipos+funcionais+e+engenharia+aplicada."
     alt="Software, IA, IoT e Sistemas Embarcados"
   />
 </p>
 
-## SYSTEM OVERVIEW
+<p align="center">
+  <img width="460" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer working with code animation" />
+</p>
 
-Sou estudante de Engenharia da Computação, desenvolvendo soluções que conectam software, inteligência artificial, eletrônica, automação e dados.
+<h2 align="center">Engineering Lab</h2>
 
-Projetos pensados desde a definição do problema, passando pela arquitetura e prototipagem, até a validação em cenário real.
+<p align="center">
+  Estudante de <strong>Engenharia da Computação</strong> em Criciúma/SC, conectando software, IA, eletrônica, automação e dados.
+</p>
 
-**Criciúma, SC · Brasil — Engenharia da Computação — Projetos acadêmicos e práticos**
-
----
-
-## LAB DOMAINS
-
-### 01 — SOFTWARE SYSTEMS
-
-APIs, aplicações web, dashboards, bancos de dados, regras de negócio e integrações.
-
----
-
-### 02 — AI APPLIED SYSTEMS
-
-Visão computacional, análise de imagens, modelos de IA, processamento visual e validação técnica.
-
----
-
-### 03 — EMBEDDED & IoT
-
-ESP32, Arduino, MQTT, sensores, automação, monitoramento e sistemas conectados.
+<p align="center">
+  <code>Software</code>
+  <code>IA aplicada</code>
+  <code>Web Systems</code>
+  <code>APIs</code>
+  <code>ESP32</code>
+  <code>Arduino</code>
+  <code>IoT</code>
+  <code>Hardware</code>
+</p>
 
 ---
 
-### 04 — HARDWARE PROTOTYPING
+## Agora Na Bancada
 
-Circuitos, PCB, soldagem, lasers, sensores ópticos, áudio, firmware e interação física.
+> <img align="right" width="84" src="https://skillicons.dev/icons?i=py,react,fastapi" alt="Python, React e FastAPI" />
+> **VerificaIA**
+>
+> Análise técnica de imagens com indícios de geração artificial.
+>
+> `FastAPI` `React` `Python` `Computer Vision`
+>
+> Status: `[ativo]` interface de resultados e indicadores de análise.
 
----
+> <img align="right" width="84" src="https://skillicons.dev/icons?i=arduino" alt="Arduino" />
+> **Harpa Laser**
+>
+> Instrumento eletrônico com lasers, sensores ópticos, áudio e firmware.
+>
+> `PCB` `Microcontrolador` `DFPlayer Mini` `Firmware`
+>
+> Status: `[montagem]` eletrônica, sensores e organização da PCB.
 
-## ACTIVE BUILDS
+> <img align="right" width="84" src="https://skillicons.dev/icons?i=arduino,linux" alt="Arduino e Linux" />
+> **ESP32 Lab**
+>
+> Automação e monitoramento com sensores, MQTT, Node-RED e dashboards.
+>
+> `ESP32` `MQTT` `FreeRTOS` `Sensores`
+>
+> Status: `[testes]` comunicação, sensores e dashboard.
 
-### VerificaIA
-
-Plataforma web para análise técnica de imagens com indícios de geração artificial.
-
-`FastAPI` `React` `Python` `Computer Vision` `Image Analysis`
-
-**Problema**
-
-Como oferecer uma avaliação visual e técnica para imagens suspeitas de terem sido geradas por inteligência artificial.
-
-**Construção**
-
-Backend para processamento de imagens, interface web para envio de arquivos, indicadores técnicos e score de análise.
-
-**Estado atual**
-
-Protótipo ativo e em evolução.
-
----
-
-### Harpa Laser
-
-Instrumento eletrônico interativo baseado em lasers, sensores ópticos, áudio e firmware.
-
-`PCB` `Microcontrolador` `DFPlayer Mini` `Fototransistores` `Firmware`
-
-**Problema**
-
-Criar uma interface física capaz de transformar interrupções de laser em interação sonora.
-
-**Construção**
-
-Projeto de PCB, organização de componentes, sensores ópticos, controle de lasers, reprodução de áudio e montagem física.
-
-**Estado atual**
-
-Construção eletrônica e testes de integração.
+> <img align="right" width="84" src="https://skillicons.dev/icons?i=java,spring,react,postgres" alt="Java, Spring, React e PostgreSQL" />
+> **ESFL-Manager**
+>
+> Gestão financeira com regras de negócio, dashboards e apoio de IA.
+>
+> `Java` `Spring Boot` `React` `PostgreSQL`
+>
+> Status: `[arquitetura]` backend, regras e banco de dados.
 
 ---
 
-### ESP32 Lab
+## Lab Modules
 
-Laboratório de automação e monitoramento utilizando ESP32, sensores, MQTT e dashboards.
+**01 / Software Systems**
+APIs, aplicações web, dashboards, bancos de dados e integrações.
 
-`ESP32` `MQTT` `Node-RED` `FreeRTOS` `Sensores`
+**02 / AI Applied Systems**
+Visão computacional, análise de imagens, modelos de IA e validação técnica.
 
-**Problema**
+**03 / Embedded & IoT**
+ESP32, Arduino, MQTT, sensores, automação e sistemas conectados.
 
-Criar sistemas conectados que possam coletar dados, responder a eventos e ser monitorados remotamente.
-
-**Construção**
-
-Integração de sensores, displays, relés, comunicação MQTT, dashboards e tarefas embarcadas.
-
-**Estado atual**
-
-Testes de sensores, comunicação e automação.
+**04 / Hardware Prototyping**
+Circuitos, PCB, soldagem, lasers, sensores ópticos, áudio e interação física.
 
 ---
 
-### ESFL-Manager
-
-Sistema de gestão financeira com dashboards, regras de negócio e apoio de inteligência artificial.
-
-`Java` `Spring Boot` `React` `PostgreSQL` `APIs REST`
-
-**Problema**
-
-Transformar dados financeiros dispersos em controle, visualização e suporte à decisão.
-
-**Construção**
-
-Backend com regras de negócio, banco de dados, frontend com dashboards e integração de recursos de IA.
-
-**Estado atual**
-
-Arquitetura e desenvolvimento em andamento.
-
----
-
-## ENGINEERING METHOD
-
-Todo projeto segue uma lógica de engenharia:
-
-**Problema definido → arquitetura clara → protótipo funcional → documentação técnica → testes em cenário real → evolução versionada.**
-
-Código é apenas uma parte da entrega. Um projeto precisa ser compreendido, testado, documentado e aplicável.
-
----
-
-## FERRAMENTAS DE TRABALHO
+## Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,spring,fastapi,postgres,mysql,docker,git,linux,arduino" alt="Java, Python, JavaScript, TypeScript, React, Spring Boot, FastAPI, PostgreSQL, MySQL, Docker, Git, Linux e Arduino" />
 </p>
 
-Ferramentas escolhidas conforme o problema: da API ao firmware, do banco de dados à bancada.
+<p align="center">
+  Da API ao firmware. Do banco de dados à bancada.
+</p>
 
 ---
 
-## EM FOCO AGORA
+## Lab Flow
 
-* `[ativo]` VerificaIA — melhorias na análise e na interface de resultados.
-* `[montagem]` Harpa Laser — eletrônica, sensores e organização da PCB.
-* `[testes]` ESP32 + MQTT — automação, sensores e dashboard.
-* `[arquitetura]` ESFL-Manager — regras de negócio, backend e banco de dados.
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=650&color=F59E0B&center=true&vCenter=true&width=900&lines=Problema+%E2%86%92+Arquitetura+%E2%86%92+Prot%C3%B3tipo;Circuito+%E2%86%92+C%C3%B3digo+%E2%86%92+Teste;Documenta%C3%A7%C3%A3o+%E2%86%92+Vers%C3%A3o+%E2%86%92+Evolu%C3%A7%C3%A3o"
+    alt="Fluxo de engenharia"
+  />
+</p>
 
 ---
-
-## NOTAS DE ENGENHARIA
 
 <details>
-  <summary>Critérios que orientam os projetos</summary>
+  <summary>Notas de engenharia</summary>
 
-Os projetos deste laboratório valorizam documentação, arquitetura, testes, segurança, versionamento, integração entre software e hardware e evolução contínua.
+Projetos com documentação, arquitetura, testes, segurança, versionamento e integração entre software e hardware.
 
 </details>
 
 ---
 
 <p align="center">
-  Portfólio: <a href="https://paulosf.com.br">paulosf.com.br</a>
-  <br />
-  GitHub: <a href="https://github.com/paulos-f">@paulos-f</a>
+  <a href="https://paulosf.com.br">paulosf.com.br</a>
+  &nbsp;•&nbsp;
+  <a href="https://github.com/paulos-f">@paulos-f</a>
 </p>
 
 <p align="center">
-  Construindo soluções onde software, eletrônica e engenharia se encontram.
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:b45309,45:1d4ed8,100:020617&section=footer"
+    alt="Footer wave"
+  />
 </p>
